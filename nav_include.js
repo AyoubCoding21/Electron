@@ -3,7 +3,7 @@ const navBarHTML = `
         <ul class="navbar-nav">
             <li class="logo">
                 <a href="#" class="nav-link">
-                    <span class="link-text logo-text">Electron</span>
+                    <span class="link-text logo-text">Positron</span>
                     <svg aria-hidden="true" focusable="false" data-prefix="fad" data-icon="angle-double-right"
                         role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
                         class="svg-inline--fa fa-angle-double-right fa-w-14 fa-5x">
